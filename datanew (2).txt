@@ -522,10 +522,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMP_4SJ5aoPLbr9J3DAsNA9hhsl1NhZZL5YYc_mhU8mqWBHaWtxynViQyS&s=10" group-title="BEINSPORT" , BEIN SPORTS XTRA En Español 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4j70fr1641505813.png" group-title="BEINSPORT", 01 MAX SPORT 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2v005r1643205531.png" group-title="BEINSPORT", 1 ARENA 
@@ -533,33 +529,6 @@ https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 
-
-KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-#EXTINF:-1 group-title="BEINSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png",2 USA Network
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/fnm5pcql5f4jnxd/sportv.png" group-title="BEINSPORT",SporTV1
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/fnm5pcql5f4jnxd/sportv.png" group-title="BEINSPORT",SportTV2
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/fnm5pcql5f4jnxd/sportv.png" group-title="BEINSPORT",SporTv 3
- 
-#EXTINF:0  tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="BEINSPORT", Sport.tv 1
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
- 
-#EXTINF:0  tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="BEINSPORT", Sport.tv 2
-https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
- 
-#EXTINF:0  tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="BEINSPORT", Sport.tv 3
-https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
- 
-#EXTINF:0  tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="BEINSPORT", Sport.tv 4
-https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
 
 TNT GROUP ---------------------------------------------------------------------
 
@@ -579,7 +548,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d292f6b7edc9a1a05d393ba0c20ef9e
 #EXTINF:-1 group-title="TNTGROUP" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", 6 Peacock 1
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
