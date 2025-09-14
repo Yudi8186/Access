@@ -299,6 +299,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
 
 =========================================== UFC/MMA ==============================================================================
 
+#EXTINF:-1 tvg-id="DAZN.uk" group-title="TINJU CS 085815053825" tvg-logo="https://i.postimg.cc/fRB3Sn2r/IMG-2847.png", DAZN Combat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 group-title="TINJU CS 085815053825" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5TT3kU7Wux9Bxm5HxGrQ22tRcT2Kap3qPHA&usqp=CAU",TNT SPORTS 1 UK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
