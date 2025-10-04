@@ -811,6 +811,44 @@ http://filex.me:8080/000003/000003/304004
 #EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8b1c9902f40ad05adb08639c21185942.png" group-title="ARENA-SPORT",AL: ART Sport 5
 http://filex.me:8080/000003/000003/304005
 
+    ========SPORT HD========
+
+#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
+
+#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
+
+#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142757
+
+#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
+
+#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 5
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
+
+#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 6
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
+
+#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
+
+#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
+
+#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
+
+
+#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.imghippo.com/files/PKYK9834nDw.png",Sportv 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
+
+#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.imghippo.com/files/bnHW6108tBk.jpg",Sportv 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
+
+#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.imghippo.com/files/WU1252hQk.jpg",Sportv 3
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
 
 
 
