@@ -766,31 +766,50 @@ https://av-ch-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
-SONY TEN
--------------------------------------------------------------------
+
+#######################$#########################################
 
 
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SONY TV",SONY TEN 1 HD
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SONY TV",SONY TEN 2 HD
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SONY TV",SONY TEN 3 HD
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SONY TV",SONY TEN 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SONY TV", SONY TEN 4 HD
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-
-#EXTINF:-1 group-title="SONY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Sony Ten 1
-http://filex.tv:8080/live/Home329/Sohailhome/52083.m3u8
-#EXTINF:-1 group-title="SONY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Sony Ten 2
-http://filex.tv:8080/live/Home329/Sohailhome/52085.m3u8
-#EXTINF:-1 group-title="SONY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Sony Ten 3
-http://filex.tv:8080/live/Home329/Sohailhome/52086.m3u8
 
 
+
+
+#EXTINF:-1 group-logo="https://iili.io/2y78c5x.png" tvg-id="" tvg-name="PT: ELEVEN 1 HD" tvg-logo="https://iili.io/3EWn30X.jpg" group-title="DAZN-SPORT",DAZN 1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117742
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 2 HD" tvg-logo="https://iili.io/3EWotwv.jpg" group-title="DAZN-SPORT",DAZN 2
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117745
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3 HD" tvg-logo="https://iili.io/3EWxciB.jpg" group-title="DAZN-SPORT",DAZN 3
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117747
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 HD" tvg-logo="https://iili.io/3EWxis2.jpg" group-title="DAZN-SPORT",DAZN 4
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117749
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5 HD" tvg-logo="https://iili.io/3EWzVr7.jpg" group-title="DAZN-SPORT",DAZN 5
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117751
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 HD" tvg-logo="https://iili.io/3EWIMZv.jpg" group-title="DAZN-SPORT",DAZN 6
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117753
+
+
+###############################№#################$$###############################################
 
 =========================================== SPORTS======================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/577d05bbbff32984817bb5651dc77549.png" group-title="ARENA-SPORT",AL: Arena Sport 1
+http://filex.me:8080/000003/000003/303997
+#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/14078476ccd04f73e80473edc0a0037c.png" group-title="ARENA-SPORT",AL: Arena Sport 2
+http://filex.me:8080/000003/000003/303998
+#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/0b368e483f287a3f3e07bab3dd8f652f.png" group-title="ARENA-SPORT",AL: Arena Sport 4
+http://filex.me:8080/000003/000003/303999
+#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d5681f9e3564d378ff7769b8037581dc.png" group-title="ARENA-SPORT",AL: Arena Sport 5
+http://filex.me:8080/000003/000003/304000
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/d016a2c0dd5d33df89a4f85a016b9299.png" group-title="ARENA-SPORT",AL: ART Sport 1
+http://filex.me:8080/000003/000003/304001
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/1f3685cf082119f422fe1bd584cbb48c.png" group-title="ARENA-SPORT",AL: ART Sport 2
+http://filex.me:8080/000003/000003/304002
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7977d0e43fed7b4efd627df97b1a4e29.png" group-title="ARENA-SPORT",AL: ART Sport 3
+http://filex.me:8080/000003/000003/304003
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/29bd2d194a584b18ac79234629e0e7d3.png" group-title="ARENA-SPORT",AL: ART Sport 4
+http://filex.me:8080/000003/000003/304004
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8b1c9902f40ad05adb08639c21185942.png" group-title="ARENA-SPORT",AL: ART Sport 5
+http://filex.me:8080/000003/000003/304005
 
 
 
