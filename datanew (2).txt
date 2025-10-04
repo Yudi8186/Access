@@ -825,21 +825,6 @@ http://filex.me:8080/000003/000003/304004
 http://filex.me:8080/000003/000003/304005
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="ARENA-SPORT",048. SkySportMotoGP
-https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png" group-title="ARENA-SPORT",049. SkySportF1
-https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Premiere-HD.png" group-title="ARENA-SPORT",050. Premiere
-https://wahyu1ptv.pages.dev/Premiere-HD.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports1.png" group-title="ARENA-SPORT",051. SetantaSports1
 https://wahyu1ptv.pages.dev/Setanta1-HD.m3u8
 
