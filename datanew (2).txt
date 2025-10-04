@@ -824,6 +824,29 @@ http://filex.me:8080/000003/000003/304004
 #EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8b1c9902f40ad05adb08639c21185942.png" group-title="ARENA-SPORT",AL: ART Sport 5
 http://filex.me:8080/000003/000003/304005
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="ARENA-SPORT",048. SkySportMotoGP
+https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png" group-title="ARENA-SPORT",049. SkySportF1
+https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Premiere-HD.png" group-title="ARENA-SPORT",050. Premiere
+https://wahyu1ptv.pages.dev/Premiere-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports1.png" group-title="ARENA-SPORT",051. SetantaSports1
+https://wahyu1ptv.pages.dev/Setanta1-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports2.png" group-title="ARENA-SPORT",052. SetantaSports2
+https://wahyu1ptv.pages.dev/Setanta2-HD.m3u8
     ========SPORT HD========
 
 #EXTINF:-1 group-title="BEINSPORT-CADANGAN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
