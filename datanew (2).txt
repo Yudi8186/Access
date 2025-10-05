@@ -632,9 +632,42 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
 #EXTINF:-1 group-title="BEINSPORT-CADANGAN" tvg-logo="https://i.imghippo.com/files/WU1252hQk.jpg",Sportv 3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
 
+++-------------------------------------------------------------------------
 
-
-
+title="Albania ➾ Sports",AL: Kujtesa Sport 1
+http://filex.me:8080/000003/000003/304008
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0bcdad89b4447a2a1a50f8b6e6f27d2b.jpg" group-title="Sports-Mix",AL: Kujtesa Sport 2
+http://filex.me:8080/000003/000003/304009
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/374268c45e28a927265cafd3d15bca99.jpg" group-title="Sports-Mix",AL: Kujtesa Sport 3
+http://filex.me:8080/000003/000003/304010
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e97db585bf968f9c3df5945b962726d1.jpg" group-title="Sports-Mix",AL: Kujtesa Sport 4
+http://filex.me:8080/000003/000003/304011
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/bf23238a743c9feae86249cae1e285d3.svg" group-title="Sports-Mix",AL: RTSH Sport
+http://filex.me:8080/000003/000003/304012
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/dd40a0c54e5a3acb0ffce128dc90de94.png" group-title="Sports-Mix",AL: SuperSport 1
+http://filex.me:8080/000003/000003/304013
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9519a058698941aadb6473f8721e58b1.png" group-title="Sports-Mix",AL: SuperSport 2
+http://filex.me:8080/000003/000003/304014
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/dd3c9c967ec530a8b19978ca6aac4588.png" group-title="Sports-Mix",AL: SuperSport 3
+http://filex.me:8080/000003/000003/304015
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/e0c350049cb9584a4a13c63aaf405857.png" group-title="Sports-Mix",AL: SuperSport 4
+http://filex.me:8080/000003/000003/304016
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/c6be34175b71784909e9493c29135344.png" group-title="Sports-Mix",AL: SuperSport 5
+http://filex.me:8080/000003/000003/304017
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/f2f8128ce788087140b3d84a313fe6e8.png" group-title="Sports-Mix",AL: SuperSport 6
+http://filex.me:8080/000003/000003/304018
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/90b0f1e0b931a25f5257b5ff05e96fe5.png" group-title="Sports-Mix",AL: SuperSport 7
+http://filex.me:8080/000003/000003/304019
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/dff061a1127ec25516208e9610bd550d.jpg" group-title="Sports-Mix",AL: SuperSport News
+http://filex.me:8080/000003/000003/304020
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/159a3e53a509523324405a783571860a.png" group-title="Sports-Mix",AL: Tring Sport 1
+http://filex.me:8080/000003/000003/304021
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/43c29acadbe04ba7cccb93430e73d373.png" group-title="Sports-Mix",AL: Tring Sport 2
+http://filex.me:8080/000003/000003/304022
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/85de7720019eb796d9dfe20898807b36.png" group-title="Sports-Mix",AL: Tring Sport 3
+http://filex.me:8080/000003/000003/304023
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/6a7cf8d9da4b44e4a17d4874a96de13f.png" group-title="Sports-Mix",AL: Tring Sport 4
+http://filex.me:8080/000003/000003/304024
 
 
 
