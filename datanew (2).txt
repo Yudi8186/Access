@@ -631,6 +631,15 @@ https://wahyu1ptv.pages.dev/Setanta2-HD.m3u8
 https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="BEINSPORT-CADANGAN",AsrtoPremierLeague1
+https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="BEINSPORT-CADANGAN",AsrtoPremierLeague2
+https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
+
+
+
+
 #EXTINF:-1 group-title="BEINSPORT-CADANGAN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
