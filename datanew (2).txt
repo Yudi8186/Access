@@ -808,7 +808,7 @@ https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="09. Sports TV",071. ElevenSport2
+#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="SKY-SPORT",071. ElevenSport2
 https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 
 
