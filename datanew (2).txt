@@ -638,8 +638,6 @@ https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
 https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
 
 
-
-
 #EXTINF:-1 group-title="BEINSPORT-CADANGAN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
@@ -803,6 +801,36 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/32780
 #EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="|FR| CINE  CLASSIC ??" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/CINECLASSIC.png" group-title="MOVIE-CHANEL",|FR| CINE  CLASSIC ??
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12881
 --------------------------------------------;;;;------------------
+
+
+#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="SKY-SPORT",070. ElevenSport1
+https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="09. Sports TV",071. ElevenSport2
+https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png" group-title="SKY-SPORT",072. ElevenSport3
+https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ElevenSport4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-4-hd(1).png" group-title="SKY-SPORT",073. ElevenSport4
+https://wahyu1ptv.pages.dev/ElevenSports4-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport.png" group-title="SKY-SPORT",074. ZiggoSportSelect
+https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport2.png" group-title="SKY-SPORT",075. ZiggoSportVoetbal
+https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
+
 
 #EXTINF:-1 tvg-ID="skysport1.nz" tvg-name="|NZ| SKY SPORTS 1 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SKY-SPORT",|NZ| SKY SPORTS 1
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579826
