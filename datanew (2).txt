@@ -1011,6 +1011,63 @@ http://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18190&type=drm 
 http://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
+-----++++++----------------------++-+++++++------ASTRO------------_-------------
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena.png" group-title="ASTRO-SPORT",009. AstroArena1
+https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena2.png" group-title="ASTRO-SPORT",010. AstroArena2
+https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="ASTRO-SPORT",011. AstroArenaBola1
+https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="ASTRO-SPORT",012. AstroArenaBola2
+https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="ASTRO-SPORT",03. AsrtoPremierLeague1
+https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="ASTRO-SPORT",02. AsrtoPremierLeague2
+https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="ASTRO-SPORT",01. AstroGrandstand
+https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="ASTRO-SPORT",016. AstroFootball
+https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus1.png" group-title="ASTRO-SPORT",017. AstroSportPlus1
+https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus2.png" group-title="ASTRO-SPORT",018. AstroSportPlus2
+https://wahyu1ptv.pages.dev/AstroSportPlus2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="ASTRO-SPORT",019. AstroBadminton1
+https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="ASTRO-SPORT",020. AstroBadminton2
+https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BS1.png" group-title="ASTRO-SPORT",025. BlueSport1
+https://wahyu1ptv.pages.dev/BlueSport1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BS2.png" group-title="ASTRO-SPORT",026. BlueSport2
+https://wahyu1ptv.pages.dev/BlueSport2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="ASTRO-SPORT",027. SuperSport1
+https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="ASTRO-SPORT",028. SuperSport2
+https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="ASTRO-SPORT",029. SuperSport3
+https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
+
+
+
+
+
 
 #EXTM3U billed-msg="CHANNEL MATI LAPOR ADMIN 085815053825 / IURAN TIAP TANGGAL 1 / RECEIVER RUSAK KITA GANTI BARU S&K BERLAKU MATOR SEKALANGKONG TV RUSAK HARAP INFO"
 
