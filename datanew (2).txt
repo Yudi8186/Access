@@ -1034,7 +1034,7 @@ https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="ASTRO-SPORT",01. AstroGrandstand
 https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="ASTRO-SPORT",016. AstroFootball
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="ASTRO-SPORT",04. AstroFootball
 https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus1.png" group-title="ASTRO-SPORT",017. AstroSportPlus1
@@ -1049,19 +1049,19 @@ https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="ASTRO-SPORT",020. AstroBadminton2
 https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BS1.png" group-title="ASTRO-SPORT",025. BlueSport1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BS1.png" group-title="ASTRO-SPORT",05. BlueSport1
 https://wahyu1ptv.pages.dev/BlueSport1-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BS2.png" group-title="ASTRO-SPORT",026. BlueSport2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BS2.png" group-title="ASTRO-SPORT",06. BlueSport2
 https://wahyu1ptv.pages.dev/BlueSport2-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="ASTRO-SPORT",027. SuperSport1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="ASTRO-SPORT",07. SuperSport1
 https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="ASTRO-SPORT",028. SuperSport2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="ASTRO-SPORT",08. SuperSport2
 https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="ASTRO-SPORT",029. SuperSport3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="ASTRO-SPORT",09. SuperSport3
 https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
 
 
