@@ -577,19 +577,6 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 ###############################№#################$$###############################################
 
 =========================================== SPORTS======================================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-1-hd.png" group-title="ARENA-SPORT",067. ArenaPremium1
-https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-2-hd.png" group-title="ARENA-SPORT",068. ArenaPremium2
-https://wahyu1ptv.pages.dev/ArenaPremium2-HD.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-3-hd.png" group-title="ARENA-SPORT",069. ArenaPremium3
-https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/577d05bbbff32984817bb5651dc77549.png" group-title="ARENA-SPORT",AL: Arena Sport 1
 http://filex.me:8080/000003/000003/303997
@@ -611,13 +598,6 @@ http://filex.me:8080/000003/000003/304004
 http://filex.me:8080/000003/000003/304005
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports1.png" group-title="ARENA-SPORT",051. SetantaSports1
-https://wahyu1ptv.pages.dev/Setanta1-HD.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports2.png" group-title="ARENA-SPORT",052. SetantaSports2
-https://wahyu1ptv.pages.dev/Setanta2-HD.m3u8
  
 ========SPORT HD========
 
