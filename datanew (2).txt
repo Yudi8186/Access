@@ -745,33 +745,7 @@ http://filex.me:8080/000003/000003/304023
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/6a7cf8d9da4b44e4a17d4874a96de13f.png" group-title="Sports-Mix",AL: Tring Sport 4
 http://filex.me:8080/000003/000003/304024
 
-#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ ???" tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png" group-title="MOVIE-CHANEL",|FR| CANAL+ ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/148474
-#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| Canal+ ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png" group-title="MOVIE-CHANEL",|FR| Canal+ ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/247
-#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| Canal +" tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png" group-title="MOVIE-CHANEL",|FR| Canal +
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11033
 
-#EXTINF:-1 tvg-ID="01tv.fr" tvg-name="|FR| CANAL+ BOX OFFICE ??" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/02/Entete-CANALBOX-OFFICE.png" group-title="MOVIE-CHANEL",|FR| CANAL+ BOX OFFICE ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/326682
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ BOX OFFICE ??" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/02/Entete-CANALBOX-OFFICE.png" group-title="MOVIE-CHANEL",|FR| CANAL+ BOX OFFICE ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/327913
-#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA ???" tvg-logo="http://138.199.27.237:8080/0tv_logo/5017.png" group-title="MOVIE-CHANEL",|FR| CANAL+ CINEMA ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/148475
-#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="|FR| Canal+ Cinema ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5017.png" group-title="MOVIE-CHANEL",|FR| Canal+ Cinema ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/249
-#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA ???" tvg-logo="http://138.199.27.237:8080/0tv_logo/5017.png" group-title="MOVIE-CHANEL",|FR| CANAL+ CINEMA ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/32770
-#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="|FR| CANAL+  CINEMA ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5017.png" group-title="MOVIE-CHANEL",|FR| CANAL+  CINEMA ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12889
-#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="|FR| CANAL+ SERIES ???" tvg-logo="http://138.199.27.237:8080/0tv_logo/5018.png" group-title="MOVIE-CHANEL",|FR| CANAL+ SERIES ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/148478
-#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="|FR| Canal+ Series ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5018.png" group-title="MOVIE-CHANEL",|FR| Canal+ Series ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/252
-#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="|FR| CANAL+ SERIES ???" tvg-logo="http://138.199.27.237:8080/0tv_logo/5018.png" group-title="MOVIE-CHANEL",|FR| CANAL+ SERIES ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/32772
-#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="|FR| CANAL+  SERIES ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5018.png" group-title="MOVIE-CHANEL",|FR| CANAL+  SERIES ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12886
 
 #EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ GRAND ECRAN ???" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Logo_Canal+_Grand_�cran_2022.png" group-title="MOVIE-CHANEL",|FR| CANAL+ GRAND ECRAN ???
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/250640
@@ -816,24 +790,7 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/32776
 #EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="|FR| CINE  EMOTION ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5066.png" group-title="MOVIE-CHANEL",|FR| CINE  EMOTION ??
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12878
 #EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ FESTIVAL ???" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8e/Cine%2B_2021.png" group-title="MOVIE-CHANEL",|FR| CINE+ FESTIVAL ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/250677
-#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| Cine+ FESTIVAL ??" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8e/Cine%2B_2021.png" group-title="MOVIE-CHANEL",|FR| Cine+ FESTIVAL ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/256
-#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE  FESTIVAL ??" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/CINECLUB.png" group-title="MOVIE-CHANEL",|FR| CINE  FESTIVAL ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12879
-#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR|CINE+ FESTIVAL ???" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8e/Cine%2B_2021.png" group-title="MOVIE-CHANEL",|FR|CINE+ FESTIVAL ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/32779
-#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE  FESTIVAL ??" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/CINECLUB.png" group-title="MOVIE-CHANEL",|FR| CINE  FESTIVAL ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12880
-#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="|FR| CINE+ CLASSIC ???" tvg-logo="http://138.199.27.237:8080/FRANCE/CINE+CLASSICHD.png" group-title="MOVIE-CHANEL",|FR| CINE+ CLASSIC ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/250676
-#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="|FR| Cine+ Classic ??" tvg-logo="http://138.199.27.237:8080/FRANCE/CINE+CLASSICHD.png" group-title="MOVIE-CHANEL",|FR| Cine+ Classic ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/259
-#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="|FR| CINE+ CLASSIC ???" tvg-logo="http://138.199.27.237:8080/FRANCE/CINE+CLASSICHD.png" group-title="MOVIE-CHANEL",|FR| CINE+ CLASSIC ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/32780
-#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="|FR| CINE  CLASSIC ??" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/CINECLASSIC.png" group-title="MOVIE-CHANEL",|FR| CINE  CLASSIC ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12881
---------------------------------------------;;;;------------------
+
 
 
 #EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="SKY-SPORT",070. ElevenSport1
