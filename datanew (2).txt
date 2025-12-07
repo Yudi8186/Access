@@ -581,44 +581,6 @@ http://filex.me:8080/000003/000003/304005
  
 ========SPORT HD========
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="BEINSPORT-CADANGAN",01 AstroGrandstand
-https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="BEINSPORT-CADANGAN",AsrtoPremierLeague1
-https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="BEINSPORT-CADANGAN",AsrtoPremierLeague2
-https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
-
-
-#EXTINF:-1 group-title="BEINSPORT-CADANGAN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
-
-#EXTINF:-1 group-title="BEINSPORT-CADANGAN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
-
-#EXTINF:-1 group-title="BEINSPORT-CADANGAN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142757
-
-#EXTINF:-1 group-title="BEINSPORT-CADANGAN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
-
-#EXTINF:-1 group-title="BEINSPORT-CADANGAN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 5
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
-
-#EXTINF:-1 group-title="BEINSPORT-CADANGAN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 6
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
-
-#EXTINF:-1 group-title="BEINSPORT-CADANGAN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7 
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
-
-#EXTINF:-1 group-title="BEINSPORT-CADANGAN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8 
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
-
-#EXTINF:-1 group-title="BEINSPORT-CADANGAN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9 
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
-
 
 #EXTINF:-1 group-title="BEINSPORT-CADANGAN" tvg-logo="https://i.imghippo.com/files/PKYK9834nDw.png",Sportv 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
@@ -668,71 +630,6 @@ http://filex.me:8080/000003/000003/304024
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ GRAND ECRAN ???" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Logo_Canal+_Grand_�cran_2022.png" group-title="MOVIE-CHANEL",|FR| CANAL+ GRAND ECRAN ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/250640
-#EXTINF:-1 tvg-ID="canalplusgrandecran.fr" tvg-name="|FR| CANAL+ GRAND ??" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Logo_Canal+_Grand_�cran_2022.png" group-title="MOVIE-CHANEL",|FR| CANAL+ GRAND ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/199801
-#EXTINF:-1 tvg-ID="canalplusgrandecran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN ???" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Logo_Canal+_Grand_�cran_2022.png" group-title="MOVIE-CHANEL",|FR| CANAL+ GRAND ECRAN ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/274712
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ FIRST ??" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/c+first.png" group-title="MOVIE-CHANEL",|FR| CANAL+ FIRST ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/231449
-#EXTINF:-1 tvg-ID="" tvg-name="|FR|  NETFLIX PREMIUM" tvg-logo="https://cryptonaute.fr/wp-content/uploads/2020/09/Netflix.png" group-title="MOVIE-CHANEL",|FR|  NETFLIX PREMIUM
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/231345
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| DRIVE-IN MOVIE CHANNEL" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/drivein.png" group-title="MOVIE-CHANEL",|FR| DRIVE-IN MOVIE CHANNEL
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/248626
-#EXTINF:-1 tvg-ID="" tvg-name="|FR|  FREQUENCE NOVELAS" tvg-logo="https://i.ibb.co/2kxJjsw/images.jpg" group-title="MOVIE-CHANEL",|FR|  FREQUENCE NOVELAS
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/248197
-#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="FR| Cine+ WESTERN  ???" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTss3mOTe7VTijUqV5OVvFFOLp4YSOHNNAa2MAL34VJWMUBlp0C9YQ5YiqdFo1f48uDdqI&usqp=CAU" group-title="MOVIE-CHANEL",FR| Cine+ WESTERN  ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/1041916
-#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="|FR| CINE+ OCS ???" tvg-logo="http://138.199.27.237:8080/0tv_logo/5065.png" group-title="MOVIE-CHANEL",|FR| CINE+ OCS ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/203424
-#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="|FR| Cine+ OCS ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5065.png" group-title="MOVIE-CHANEL",|FR| Cine+ OCS ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/254
-#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="|FR|  CINE+ OCS ???" tvg-logo="http://138.199.27.237:8080/0tv_logo/5065.png" group-title="MOVIE-CHANEL",|FR|  CINE+ OCS ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/32775
-#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="|FR| CINE  OCS ??" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/CINEPREMIER.png" group-title="MOVIE-CHANEL",|FR| CINE  OCS ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12875
-#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="|FR| CINE+ FRISSON ???" tvg-logo="http://138.199.27.237:8080/0tv_logo/5064.png" group-title="MOVIE-CHANEL",|FR| CINE+ FRISSON ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/203425
-#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="|FR| Cine+ Frisson ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5064.png" group-title="MOVIE-CHANEL",|FR| Cine+ Frisson ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/257
-#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="|FR| CINE+ FRISSON ???" tvg-logo="http://138.199.27.237:8080/0tv_logo/5064.png" group-title="MOVIE-CHANEL",|FR| CINE+ FRISSON ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/32778
-#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="|FR| CINE  FRISSON ??" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/CINEFRISSON.png" group-title="MOVIE-CHANEL",|FR| CINE  FRISSON ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12876
-#EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMILY UHD" tvg-logo="http://138.199.27.237:8080/FRANCE/CINE_FAMILHD.png" group-title="MOVIE-CHANEL",|FR| CINE+ FAMILY UHD
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/250678
-#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="|FR| CINE+ EMOTION ???" tvg-logo="http://138.199.27.237:8080/0tv_logo/5066.png" group-title="MOVIE-CHANEL",|FR| CINE+ EMOTION ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/203423
-#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="|FR| Cine + Emotion ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5066.png" group-title="MOVIE-CHANEL",|FR| Cine + Emotion ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/255
-#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="|FR| CINE+ EMOTION ???" tvg-logo="http://138.199.27.237:8080/FRANCE/CINE+EMOTIONHD.png" group-title="MOVIE-CHANEL",|FR| CINE+ EMOTION ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/32776
-#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="|FR| CINE  EMOTION ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5066.png" group-title="MOVIE-CHANEL",|FR| CINE  EMOTION ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12878
-#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ FESTIVAL ???" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8e/Cine%2B_2021.png" group-title="MOVIE-CHANEL",|FR| CINE+ FESTIVAL ???
-
-
-
-#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="SKY-SPORT",070. ElevenSport1
-https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
-
-
-
-#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="SKY-SPORT",071. ElevenSport2
-https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
-
-
-
-#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png" group-title="SKY-SPORT",072. ElevenSport3
-https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
-
-
-
-#EXTINF:-1 tvg-id="ElevenSport4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-4-hd(1).png" group-title="SKY-SPORT",073. ElevenSport4
-https://wahyu1ptv.pages.dev/ElevenSports4-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport.png" group-title="SKY-SPORT",074. ZiggoSportSelect
 https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
@@ -743,77 +640,7 @@ https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
 https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
 
 
-#EXTINF:-1 tvg-ID="skysport1.nz" tvg-name="|NZ| SKY SPORTS 1 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SKY-SPORT",01 SKY SPORTS 1
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579826
-#EXTINF:-1 tvg-ID="skysport2.nz" tvg-name="|NZ| SKY SPORTS 2 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="SKY-SPORT",02 SKY SPORTS 2
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579825
-#EXTINF:-1 tvg-ID="skysport3.nz" tvg-name="|NZ| SKY SPORTS 3 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="SKY-SPORT",03 SKY SPORTS 3
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579824
-#EXTINF:-1 tvg-ID="skysport4.nz" tvg-name="|NZ| SKY SPORTS 4 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="SKY-SPORT",04 SKY SPORTS 4
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579823
-#EXTINF:-1 tvg-ID="skysport5.nz" tvg-name="|NZ| SKY SPORTS 5 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="SKY-SPORT",05 SKY SPORTS 5
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579822
-#EXTINF:-1 tvg-ID="skysport6.nz" tvg-name="|NZ| SKY SPORTS 6 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="SKY-SPORT",06 SKY SPORTS 6
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579821
-#EXTINF:-1 tvg-ID="skysport7.nz" tvg-name="|NZ| SKY SPORTS 7 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="SKY-SPORT",07 SKY SPORTS 7
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579820
-#EXTINF:-1 tvg-ID="skysport9.nz" tvg-name="|NZ| SKY SPORTS 9 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="SKY-SPORT",09 SKY SPORTS 9
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579818
- 
 
-
------++++++----------------------++-+++++++------ASTRO------------_-------------
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena.png" group-title="ASTRO-SPORT",009. AstroArena1
-https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena2.png" group-title="ASTRO-SPORT",010. AstroArena2
-https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="ASTRO-SPORT",011. AstroArenaBola1
-https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="ASTRO-SPORT",012. AstroArenaBola2
-https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="ASTRO-SPORT",03. AsrtoPremierLeague1
-https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="ASTRO-SPORT",02. AsrtoPremierLeague2
-https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="ASTRO-SPORT",01. AstroGrandstand
-https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="ASTRO-SPORT",04. AstroFootball
-https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus1.png" group-title="ASTRO-SPORT",017. AstroSportPlus1
-https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus2.png" group-title="ASTRO-SPORT",018. AstroSportPlus2
-https://wahyu1ptv.pages.dev/AstroSportPlus2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="ASTRO-SPORT",019. AstroBadminton1
-https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="ASTRO-SPORT",020. AstroBadminton2
-https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BS1.png" group-title="ASTRO-SPORT",05. BlueSport1
-https://wahyu1ptv.pages.dev/BlueSport1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BS2.png" group-title="ASTRO-SPORT",06. BlueSport2
-https://wahyu1ptv.pages.dev/BlueSport2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="ASTRO-SPORT",07. SuperSport1
-https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="ASTRO-SPORT",08. SuperSport2
-https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="ASTRO-SPORT",09. SuperSport3
-https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
 
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> Movies
