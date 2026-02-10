@@ -123,6 +123,11 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 
 -----------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/Trans7.id.png" group-title="01VSAT-TELKOM-3S", 01 Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd|Referer=https://www.indihometv.com
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
