@@ -232,7 +232,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://iili.io/JMp3wV1.png" group-title="01VSAT-TELKOM-3S", Indosiar ⚪
-http://ayo.maling.pl/Rak/play/8dd103d7-2113-4dcb-bb79-80764e6a1763.m3u8
+https://ayo.maling.pl/Rak/play/8dd103d7-2113-4dcb-bb79-80764e6a1763.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="01VSAT-TELKOM-3S",CNN Indonesia KELUHAN INFO 085815053825
