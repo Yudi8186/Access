@@ -1,13 +1,6 @@
 
 ---------------------------------------------------------------------------------------------------------------
 
-
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/indosiar.jpg?raw=true" group-title="LIVE-CADANGAN", Indosiar FHD VIP
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="01-TIMNAS",Sportstars 
