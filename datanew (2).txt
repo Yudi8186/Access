@@ -521,6 +521,41 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8
 #EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Deppendo.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825",INFO PEMASANGAN 085815053825
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTCdua.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825"INFO PEMASANGAN 085815053825
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DAHUA/PASTEUR.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825",INFO PEMASANGAN 085815053825   
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/sukajadisukagalihh.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825",INFO PEMASANGAN 085815053825
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/sukajadisukagalih.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825",INFO PEMASANGAN 085815053825   
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/SukajadiPVJ.m3u8   
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825",INFO PEMASANGAN 085815053825
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Setiabbudibungur.m3u8 
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825",INFO PEMASANGAN 085815053825
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/   
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/riauasmtbb.m3u8
+
 
 
 
