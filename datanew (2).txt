@@ -570,6 +570,19 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 #EXTVLCOPT:http-referrer=https://pakotabumi.cctvbadilag2.my.id/402349PAKOTABUMI/play.html?name=618593742451889236371820
 #https://pakotabumi.cctvbadilag2.my.id/402349PAKOTABUMI/streams/293665249900164189392301.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
+#EXTINF:-1 group-title="📹CCTV PROJECT" tvg-logo="https://i.imgur.com/pK67EmR.png",1.INFO-085815053825
+https://dl.dropboxusercontent.com/scl/fi/loibzh31apysr3gtv0qm3/Gabung-GroupTele.mp4?rlkey=vfezlgwrcrz4oyv4puvtf5i0u&st=wkpofibh&dl=0    
+  
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT",DESA KONOHA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT", DESA KONOHA 1  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Deppendo.m3u8
 
 
 
