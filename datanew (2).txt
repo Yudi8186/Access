@@ -109,6 +109,14 @@ https://allcutv.rctiplus.id/rcti2023.m3u8
 
 
 
+
+#EXTINF:-1 group-title="01VSAT-TELKOM-3S" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR (VD)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://ratu77.adptv.workers.dev/index.mpd?id=205&type=dash
+
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="01VSAT-TELKOM-3S",Indosiar HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
