@@ -770,7 +770,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="PIALA DUNIA VIA CANADA", Las Estrellas (Mexico)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="PIALA DUNIA VIA CANADA", TSN 1 (Canada)
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="PIALA DUNIA VIA CANADA",2 TSN 1 (Canada)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
@@ -788,7 +788,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1
 #KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN4.ca2" tvg-name="TSN4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="PIALA DUNIA VIA CANADA", TSN 4 (Canada)
+#EXTINF:-1 tvg-id="TSN4.ca2" tvg-name="TSN4" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="PIALA DUNIA VIA CANADA",2 TSN 4 (Canada)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
