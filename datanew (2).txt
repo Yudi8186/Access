@@ -222,7 +222,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5PKXhU1Wbv2gnl1zHov4odufJUpww4Io1yA&s" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",2 SCTV HD KELUHAN INFO 085815053825
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYOpkk84qw1IuKkpijGSyxfS-elko-UATVrqAy8SGV2aMEQXlX_wN31VBUZ71Om9bkbyFTkQVmMFNnlM8rk77UjgVaBn115HlBvgik2aXZFVR_bl70_JXfOkwY_Y0-6PlINiA3QVk-GJcE/s1600/Screenshot_1.jpg" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",2 SCTV HD KELUHAN INFO 085815053825
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
