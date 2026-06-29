@@ -177,7 +177,7 @@ http://202.169.224.202:8800/udp/239.9.1.25:1234
 
 
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://connect-assets.prosple.com/cdn/ff/EJP2LEIQRaWiHqQxuFwgn7IGfyHKyjuVxT_cwFg_H9k/1631258385/public/styles/scale_and_crop_center_250x250/public/2021-09/logo%20indosiar.jpg" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",INDOSIAR B ðŸ‡®ðŸ‡©
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://connect-assets.prosple.com/cdn/ff/EJP2LEIQRaWiHqQxuFwgn7IGfyHKyjuVxT_cwFg_H9k/1631258385/public/styles/scale_and_crop_center_224x224/public/2021-09/logo%20indosiar.jpg" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",INDOSIAR B ðŸ‡®ðŸ‡©
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
