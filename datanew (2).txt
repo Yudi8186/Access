@@ -316,7 +316,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",10 CNN Indonesia KELUHAN INFO 085815053825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/CNN_Indonesia_logo_%282023%29.svg" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",10 CNN Indonesia KELUHAN INFO 085815053825
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 
