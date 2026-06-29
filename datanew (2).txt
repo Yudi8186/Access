@@ -169,7 +169,7 @@ https://allcutv.rctiplus.id/rcti2023.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="https://iili.io/JMp3wV1.png/1280px-INDOSIAR_Logo.png" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",1 Indosiar ðŸ‡®ðŸ‡©
+#EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwi-lEVyhFxpidFxwk0WD_FFPUatlnzFt8ihdndWL0WDzatpp8nefGTdI&s=10" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",1 Indosiar ðŸ‡®ðŸ‡©
 http://202.169.224.202:8800/udp/239.9.1.25:1234
 
 
