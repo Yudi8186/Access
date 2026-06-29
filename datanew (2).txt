@@ -287,7 +287,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index
 #KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",Metro TV
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-logo="https://i.pinimg.com/originals/c8/e1/b9/c8e1b922feffed99346980caf84e42e3.png" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",Metro TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
