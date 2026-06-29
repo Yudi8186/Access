@@ -215,7 +215,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 
 
-#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",1 𝗜𝗡𝗗𝗢𝗦𝗜𝗔𝗥 🇮🇩 🇮🇩 🇮🇩 KELUHAN INFO 085815053825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",1 𝗜𝗡𝗗𝗢𝗦𝗜𝗔𝗥 🇮🇩 🇮🇩 🇮🇩 KELUHAN INFO 085815053825
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
