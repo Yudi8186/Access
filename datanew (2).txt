@@ -126,7 +126,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 
 -----------------------------------------------------------------------------
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV3SFVaJZLh7FZnSeJXO7TNdLcGyTzpA1SXWe8ROK_O1KnYGFIZ4cc9oH&s=10" group-title"="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgWNQ-WvuD4S8KE9JKWTwydfZcv-fbIKQ4pHp2-4kANiz7-97vTsdd-DMjh2lr2bBcBGNPOCwjqOOwK0cKHHCn-aCx7CmRMmWxSv_UzsX_69UBOcag9GpYgAf8AoIQWrILTX4003A5Onc/s320/Bendera+Indonesia+Bergerak+3D.gif" group-title"="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
