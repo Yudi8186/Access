@@ -128,13 +128,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Flag_of_Indonesia.png/1280px-Flag_of_Indonesia.png" group-title"="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩
 
-EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20260621/ourmid/pngtree-fifa-world-cup-2026-with-golden-trophy-png-image_19611950.webp" group-title"="PIALA DUNIA
-
-EXTINF:-1 group-logo="https://1000logos.net/wp-content/uploads/2023/05/World-Cup-2026-Logo.png" group-title"="EVENT 04/JULI/2026
-
-
-
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -721,6 +714,10 @@ https://pelindung.bandung.go.id:3443/video/HIKSVISION/riauasmtbb.m3u8
 
 -------------------------------------------------------------------------------------------------------------------
 
+
+EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20260621/ourmid/pngtree-fifa-world-cup-2026-with-golden-trophy-png-image_19611950.webp" group-title"="PIALA DUNIA
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="PIALA DUNIA",1 CAZE TV 1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
@@ -995,6 +992,8 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 
 -----------------------------------------------------
 
+
+EXTINF:-1 group-logo="https://1000logos.net/wp-content/uploads/2023/05/World-Cup-2026-Logo.png" group-title"="EVENT 04/JULI/2026
 
 
 #EXTINF:-1 group-title="EVENT 04/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 01:00 WIB Australia vs Mesir cadangan 
