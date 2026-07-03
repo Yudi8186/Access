@@ -128,12 +128,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Flag_of_Indonesia.png/1280px-Flag_of_Indonesia.png" group-title"="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/Vprs3ftF/Premier-League-TV.png" group-title"="LIGA INGGRIS 
-
-
-
-
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
@@ -1122,6 +1116,9 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 
 <=================== CADANGAN EVENT =============================>
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/Vprs3ftF/Premier-League-TV.png" group-title"="LIGA INGGRIS 
+
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIGA INGGRIS",Hub Premier 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&extension=ts&play_token=OkTEn6qiDL
