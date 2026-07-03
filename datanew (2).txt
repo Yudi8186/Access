@@ -1034,16 +1034,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NIS28hb.png" group-title"="Volleyball
 
-#EXTINF:-1 tvg-name="Moji Digital(server 3)" tvg-logo="https://i.imgur.com/f8m10M1.jpeg" tvg-id="Digital.id" group-title="Volleyball", Volleyball (Moji Digital 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/350997
 
-#EXTINF:-1 tvg-name="Moji Digital(server 3)" tvg-logo="https://i.imgur.com/f8m10M1.jpeg" tvg-id="Digital.id" group-title="Volleyball", Volleyball (Moji Digital 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
-##http://202.169.224.202:8800/udp/239.9.1.32:1234
-##http://103.46.10.145:9981/stream/channelid/1687232794?ticket=263AE984B301239602755A78F23AB29A0E3F41BE&profile=pass
-##http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 
 #EXTINF:-1 tvg-name="Moji Digital(server 3)" tvg-logo="https://i.imgur.com/f8m10M1.jpeg" tvg-id="Digital.id" group-title="Volleyball", Volleyball (Moji Digital 3)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1070,16 +1061,6 @@ __________________________________________AVC Men's Volleyball Cup______________
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
-#EXTINF:-1 tvg-name="Volleyball" tvg-logo="https://i.imgur.com/XBTp4uX.jpeg" tvg-id="itzreisa.id" group-title="Volleyball", AVC Men's Volleyball Cup (Moji Digital 2)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
-##http://202.169.224.202:8800/udp/239.9.1.32:1234
-##http://103.46.10.145:9981/stream/channelid/1687232794?ticket=263AE984B301239602755A78F23AB29A0E3F41BE&profile=pass
-##http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
-
-#EXTINF:-1 tvg-name="Volleyball" tvg-logo="https://i.imgur.com/XBTp4uX.jpeg" tvg-id="itzreisa.id" group-title="Volleyball", AVC Men's Volleyball Cup (Moji Digital 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://opplextv.cyou:8080/nasir6160/nasir/350997
 
 
 #EXTM3U billed-msg="CHANNEL MATI LAPOR ADMIN 085815053825 / IURAN TIAP TANGGAL 1 / RECEIVER RUSAK KITA GANTI BARU S&K BERLAKU MATOR SEKALANGKONG TV RUSAK HARAP INFO"
