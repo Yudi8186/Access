@@ -1035,12 +1035,38 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/
 #KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/551QfXx.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 04/JULI/2026"",FIFA World Cup (Fox Sports 1)
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/551QfXx.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 04/JULI/2026",FIFA World Cup (Fox Sports 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://myxpanel.pro/live/13579/13579/838116.ts
 
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/WTO4By8.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 04/JULI/2026"",FIFA World Cup (Fox Sports 2)
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/WTO4By8.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 04/JULI/2026",FIFA World Cup (Fox Sports 2)
 http://myxpanel.pro/live/13579/13579/838115.ts
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/nCdKYqn.jpeg" tvg-id="itzreisa.id" group-title="EVENT 04/JULI/2026", FIFA World Cup (Tsn 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://myxpanel.pro/live/13579/13579/838103.ts
+http://opplextv.cyou:8080/nasir6160/nasir/349014
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/5dnO8Zs.jpeg" tvg-id="itzreisa.id" group-title="EVENT 04/JULI/2026", FIFA World Cup (Tsn 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://myxpanel.pro/live/13579/13579/838102.ts
+http://opplextv.cyou:8080/nasir6160/nasir/349015
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/HhWavUG.jpeg" tvg-id="itzreisa.id" group-title="EVENT 04/JULI/2026", FIFA World Cup (Tsn 3)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpv8x3tAP0-CWHfpKoj-o4Rz/m3u8
+http://opplextv.cyou:8080/nasir6160/nasir/349016
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/GT3FuqV.jpeg" tvg-id="itzreisa.id" group-title="EVENT 04/JULI/2026", FIFA World Cup (Tsn 4)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuW1Fs344n15KEeKaKxZwJ1/m3u8
+http://opplextv.cyou:8080/nasir6160/nasir/349017
+
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/PhLreC2.jpeg" tvg-id="itzreisa.id" group-title="EVENT 04/JULI/2026", FIFA World Cup (Tsn 5)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpss0oU8VkGW-VxjeNebejIG/m3u8
+http://opplextv.cyou:8080/nasir6160/nasir/349018
+
 
 
 <=================== CADANGAN EVENT =============================>
