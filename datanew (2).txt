@@ -1089,10 +1089,15 @@ __________________________________________AVC Men's Volleyball Cup______________
 
 (Play)
 
-#EXTINF:-1 tvg-name="Volleyball" tvg-logo="https://i.imgur.com/XBTp4uX.jpeg" tvg-id="itzreisa.id" group-title="Volleyball", AVC Men's Volleyball Cup (Moji Digital 1)
+#EXTINF:-1 tvg-name="Volleyball" tvg-logo="https://i.imgur.com/XBTp4uX.jpeg" tvg-id="itzreisa.id" group-title="Volleyball", AVC Men's Volleyball Cup
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
+
+#EXTINF:-1 tvg-name="Moji Digital(server 2)" tvg-logo="https://i.imgur.com/f8m10M1.jpeg" tvg-id="Digital.id" group-title=Volleyball",Moji Digital 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298550
+http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
 
 #EXTM3U billed-msg="CHANNEL MATI LAPOR ADMIN 085815053825 / IURAN TIAP TANGGAL 1 / RECEIVER RUSAK KITA GANTI BARU S&K BERLAKU MATOR SEKALANGKONG TV RUSAK HARAP INFO"
