@@ -1005,10 +1005,8 @@ http://opplextv.cyou:8080/nasir6160/nasir/349014
 
 
 #EXTINF:-1 group-title="EVENT 04/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 01:00 WIB Australia vs Mesir
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://myxpanel.pro/live/13579/13579/838116.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://myxpanel.pro/live/13579/13579/838108.ts
 
 #EXTINF:-1 group-title="EVENT 04/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 05:00 WIB Argentina vs Capo Verde 
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
