@@ -126,7 +126,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 
 -----------------------------------------------------------------------------
 
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-bendera-indoensia-animasi-png-image_6322156.jpg" group-title"="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Flag_of_Indonesia.png/1280px-Flag_of_Indonesia.png" group-title"="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
