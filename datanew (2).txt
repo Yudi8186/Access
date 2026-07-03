@@ -348,6 +348,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 
 =========================================== UFC/MMA ==============================================================================
 
+
+#EXTINF:-1 group-logo="https://media.istockphoto.com/id/856233902/id/vektor/logo-vintage-untuk-tinju.jpg?s=612x612&w=0&k=20&c=yDZsKncl72gHJrjtBqfP2eFRahK1GZ0wwYMRVgoVkp4=" group-title"="TINJU CS 085815053825
+
+
+
 #EXTINF:-1 tvg-id="DAZN.uk" group-title="TINJU CS 085815053825" tvg-logo="https://i.postimg.cc/fRB3Sn2r/IMG-2847.png", DAZN Combat
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
