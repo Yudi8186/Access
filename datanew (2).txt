@@ -578,7 +578,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 
 ------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-logo="https://assets.telkomsel.com/public/thumbnails-video/images/2025-10/bg_0.jpg?VersionId=rku_mGQc73VKOxEKChZ4EEifMEuYx7Kx" group-title"="Vision+INFO 085815053825
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqlKwNcU5jl8Z6CLK_NYc84J4aNqKlj9CyVme4Y9pQwS8CcGJ4NWfBzvo&s=10" group-title"="Vision+INFO 085815053825
 
 
 
