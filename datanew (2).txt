@@ -524,7 +524,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol
 
 =======================================MotoGP====================================================
 
-l#EXTINF:-1 group-logo="https://i.ibb.co/hWLpsBc/motoracing.png" group-title"="MotoGP CS 085815053825
+#EXTINF:-1 group-logo="https://i.ibb.co/hWLpsBc/motoracing.png" group-title"="MotoGP CS 085815053825
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
@@ -558,7 +558,12 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 #https://terabit.web.id/media.mpd?id=120&type=dash
 
--------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-logo="https://assets.telkomsel.com/public/thumbnails-video/images/2025-10/bg_0.jpg?VersionId=rku_mGQc73VKOxEKChZ4EEifMEuYx7Kx" group-title"="Vision+INFO 085815053825
+
+
+
 #EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/250px-Moji_blue.svg.png" group-title="Vision+INFO 085815053825",MOJI
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
