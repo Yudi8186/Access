@@ -364,7 +364,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 =========================================== UFC/MMA ==============================================================================
 
 
-#EXTINF:-1 group-logo="https://media.istockphoto.com/id/856233902/id/vektor/logo-vintage-untuk-tinju.jpg?s=612x612&w=0&k=20&c=yDZsKncl72gHJrjtBqfP2eFRahK1GZ0wwYMRVgoVkp4=" group-title"="TINJU CS 085815053825
+#EXTINF:-1 group-logo="https://img.magnific.com/vektor-premium/logo-maskot-tinju-keren_443390-30.jpg" group-title"="TINJU CS 085815053825
 
 
 
