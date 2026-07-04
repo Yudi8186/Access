@@ -1145,7 +1145,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 <=================== CADANGAN EVENT =============================>
 
-#EXTINF:-1 group-logo="https://i.pinimg.com/736x/77/53/56/7753560f50e2a15de4d79c0b4d296b51.jpg" group-title"="LIGA INGGRIS 
+#EXTINF:-1 group-logo="https://icon2.cleanpng.com/20190117/ilw/kisspng-logo-football-dream-league-soccer-graphic-design-t-1713909214181.webp" group-title"="LIGA INGGRIS 
 
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIGA INGGRIS",Hub Premier 1 HD
