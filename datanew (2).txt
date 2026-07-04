@@ -3,6 +3,15 @@
 
 
 ---------------------------------------------------------------------------------------------------------------
+
+
+
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTy5OsXOJTplshBefKgBySk9sboQ0K0kAn7gImNr7hgneqhM14hg1DJAQ&s=10" group-title"="Sportstars
+
+
+
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="Sportstars",Soccer Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
