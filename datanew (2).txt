@@ -192,8 +192,12 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++(++++++++
 
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/2025_Indonesia_National_Football_Team_Badge.png" group-title"="TIMNAS U-17
 
-#EXTINF:-1 tvg-name="Indosiar Digital (Server 6)" tvg-logo="https://i.imgur.com/4KiVDER.jpeg" tvg-id=" Digital.id" group-title="TIMNAS U17", Indosiar Sport 
+
+
+
+#EXTINF:-1 tvg-name="Indosiar Digital (Server 6)" tvg-logo="https://i.imgur.com/4KiVDER.jpeg" tvg-id=" Digital.id" group-title="TIMNAS U-17", Indosiar Sport 
 #http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
 https://s.id/Shareext_liga1_m3u8
 #http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
