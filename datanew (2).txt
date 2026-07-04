@@ -1205,7 +1205,7 @@ http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
 /////////////////////////////////////////// TNT Sports //////////////////////////////////////////////////
 
-#EXTINF:-1 group-logo="https://i.imgur.com/7Wkw1e0.png" group-title="TNT Sports"
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="TNT Sports"
 
 #EXTINF:-1 tvg-name="TNT Sports" tvg-logo="https://i.imgur.com/K67Pr1z.jpeg" tvg-id="tntsports.com" group-title="TNT Sports",TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
