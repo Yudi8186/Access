@@ -1034,22 +1034,22 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #EXTINF:-1 group-logo="https://1000logos.net/wp-content/uploads/2023/05/World-Cup-2026-Logo.png" group-title"="EVENT 05/JULI/2026
 
 
-#EXTINF:-1 group-title="EVENT 05/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 01:00 WIB Australia vs Mesir cadangan 
+#EXTINF:-1 group-title="EVENT 05/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 00:00 WIB Canada vs Maroko cadangan 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://myxpanel.pro/live/13579/13579/838103.ts
 http://opplextv.cyou:8080/nasir6160/nasir/349014
 
 
 
-#EXTINF:-1 group-title="EVENT 05/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 01:00 WIB Australia vs Mesir
+#EXTINF:-1 group-title="EVENT 05/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 00:00 WIB Canada vs Maroko
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://myxpanel.pro/live/13579/13579/838108.ts
 
-#EXTINF:-1 group-title="EVENT 05/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 05:00 WIB Argentina vs Capo Verde 
+#EXTINF:-1 group-title="EVENT 05/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 04:00 WIB Paraguay vs Prancis 
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
 
-#EXTINF:-1 group-title="EVENT 05/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 08:30 WIB Kolombia vs Ghana 
+#EXTINF:-1 group-title="EVENT 05/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 04:00 WIB Paraguay vs Prancis 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://myxpanel.pro/live/13579/13579/838108.ts
 
