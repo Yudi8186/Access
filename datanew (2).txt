@@ -1085,7 +1085,7 @@ http://myxpanel.pro/live/13579/13579/838116.ts
 #EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/WTO4By8.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 05/JULI/2026",FIFA World Cup (Fox Sports 2)
 http://myxpanel.pro/live/13579/13579/838115.ts
 
-#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/nCdKYqn.jpeg" tvg-id="itzreisa.id" group-title="EVENT 05/JULI/2026", FIFA World Cup (Tsn 1)
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/nCdKYqn.jpeg" tvg-id="itzreisa.id" group-title="EVENT 05/JULI/2026", 00:00 WIB Canada vs Maroko
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://myxpanel.pro/live/13579/13579/838103.ts
 http://opplextv.cyou:8080/nasir6160/nasir/349014
@@ -1137,7 +1137,7 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 #EXTINF:-1 tvg-id="auto.ct.sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="EVENT 04/JULI/2026",CT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="EVENT 05/JULI/2026", TIPIK 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="EVENT 05/JULI/2026", 00:00 WIB Canada vs Maroko
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
