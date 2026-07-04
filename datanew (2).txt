@@ -1031,91 +1031,91 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 -----------------------------------------------------
 
 
-#EXTINF:-1 group-logo="https://1000logos.net/wp-content/uploads/2023/05/World-Cup-2026-Logo.png" group-title"="EVENT 04/JULI/2026
+#EXTINF:-1 group-logo="https://1000logos.net/wp-content/uploads/2023/05/World-Cup-2026-Logo.png" group-title"="EVENT 05/JULI/2026
 
 
-#EXTINF:-1 group-title="EVENT 04/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 01:00 WIB Australia vs Mesir cadangan 
+#EXTINF:-1 group-title="EVENT 05/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 01:00 WIB Australia vs Mesir cadangan 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://myxpanel.pro/live/13579/13579/838103.ts
 http://opplextv.cyou:8080/nasir6160/nasir/349014
 
 
 
-#EXTINF:-1 group-title="EVENT 04/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 01:00 WIB Australia vs Mesir
+#EXTINF:-1 group-title="EVENT 05/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 01:00 WIB Australia vs Mesir
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://myxpanel.pro/live/13579/13579/838108.ts
 
-#EXTINF:-1 group-title="EVENT 04/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 05:00 WIB Argentina vs Capo Verde 
+#EXTINF:-1 group-title="EVENT 05/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 05:00 WIB Argentina vs Capo Verde 
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
 
-#EXTINF:-1 group-title="EVENT 04/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 08:30 WIB Kolombia vs Ghana 
+#EXTINF:-1 group-title="EVENT 05/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 08:30 WIB Kolombia vs Ghana 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://myxpanel.pro/live/13579/13579/838108.ts
 
 
-#EXTINF:-1 tvg-name="EVENT 04/JULI/2026" tvg-logo="https://i.imgur.com/9oqHNzY.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 04/JULI/2026",FIFA World Cup (Tipik 1)
+#EXTINF:-1 tvg-name="EVENT 05/JULI/2026" tvg-logo="https://i.imgur.com/9oqHNzY.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 05/JULI/2026",FIFA World Cup (Tipik 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 04/JULI/2026",FIFA World Cup (Cazé TV 1)
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 05JULI/2026",FIFA World Cup (Cazé TV 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 04/JULI/2026",FIFA World Cup (Cazé TV 2)
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 05/JULI/2026",FIFA World Cup (Cazé TV 2)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 04/JULI/2026",FIFA World Cup (Cazé TV 3)
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/gCGQ6Mj.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 05/JULI/2026",FIFA World Cup (Cazé TV 3)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/551QfXx.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 04/JULI/2026",FIFA World Cup (Fox Sports 1)
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/551QfXx.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 05/JULI/2026",FIFA World Cup (Fox Sports 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://myxpanel.pro/live/13579/13579/838116.ts
 
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/WTO4By8.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 04/JULI/2026",FIFA World Cup (Fox Sports 2)
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/WTO4By8.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 05/JULI/2026",FIFA World Cup (Fox Sports 2)
 http://myxpanel.pro/live/13579/13579/838115.ts
 
-#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/nCdKYqn.jpeg" tvg-id="itzreisa.id" group-title="EVENT 04/JULI/2026", FIFA World Cup (Tsn 1)
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/nCdKYqn.jpeg" tvg-id="itzreisa.id" group-title="EVENT 05/JULI/2026", FIFA World Cup (Tsn 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://myxpanel.pro/live/13579/13579/838103.ts
 http://opplextv.cyou:8080/nasir6160/nasir/349014
 
-#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/5dnO8Zs.jpeg" tvg-id="itzreisa.id" group-title="EVENT 04/JULI/2026", FIFA World Cup (Tsn 2)
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/5dnO8Zs.jpeg" tvg-id="itzreisa.id" group-title="EVENT 05/JULI/2026", FIFA World Cup (Tsn 2)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://myxpanel.pro/live/13579/13579/838102.ts
 http://opplextv.cyou:8080/nasir6160/nasir/349015
 
-#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/HhWavUG.jpeg" tvg-id="itzreisa.id" group-title="EVENT 04/JULI/2026", FIFA World Cup (Tsn 3)
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/HhWavUG.jpeg" tvg-id="itzreisa.id" group-title="EVENT 05/JULI/2026", FIFA World Cup (Tsn 3)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpv8x3tAP0-CWHfpKoj-o4Rz/m3u8
 http://opplextv.cyou:8080/nasir6160/nasir/349016
 
-#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/GT3FuqV.jpeg" tvg-id="itzreisa.id" group-title="EVENT 04/JULI/2026", FIFA World Cup (Tsn 4)
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/GT3FuqV.jpeg" tvg-id="itzreisa.id" group-title="EVENT 05/JULI/2026", FIFA World Cup (Tsn 4)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuW1Fs344n15KEeKaKxZwJ1/m3u8
 http://opplextv.cyou:8080/nasir6160/nasir/349017
 
-#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/PhLreC2.jpeg" tvg-id="itzreisa.id" group-title="EVENT 04/JULI/2026", FIFA World Cup (Tsn 5)
+#EXTINF:-1 tvg-name="Tsn" tvg-logo="https://i.imgur.com/PhLreC2.jpeg" tvg-id="itzreisa.id" group-title="EVENT 05/JULI/2026", FIFA World Cup (Tsn 5)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpss0oU8VkGW-VxjeNebejIG/m3u8
 http://opplextv.cyou:8080/nasir6160/nasir/349018
 
 
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/FPEyJgK.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 04/JULI/2026",FIFA World Cup (CCTV 5 China)
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/FPEyJgK.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 05/JULI/2026",FIFA World Cup (CCTV 5 China)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/FPEyJgK.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 04/JULI/2026",FIFA World Cup (CCTV 5 China)
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/FPEyJgK.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 05/JULI/2026",FIFA World Cup (CCTV 5 China)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 
