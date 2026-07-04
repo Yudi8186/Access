@@ -524,7 +524,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol
 
 =======================================MotoGP====================================================
 
-#EXTINF:-1 group-logo="https://i.ibb.co/hWLpsBc/motoracing.png" group-title"="MotoGP CS 085815053825
+#EXTINF:-1 group-logo="https://m.media-amazon.com/images/I/41iZdP-hnwL._AC_UF1000,1000_QL80_.jpg" group-title"="MotoGP CS 085815053825
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
