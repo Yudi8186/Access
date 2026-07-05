@@ -1055,7 +1055,7 @@ http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
 http://myxpanel.pro/live/13579/13579/838108.ts
 
 
-#EXTINF:-1 tvg-name="EVENT 06/JULI/2026" tvg-logo="https://i.imgur.com/9oqHNzY.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 05/JULI/2026",FIFA World Cup (Tipik 1)
+#EXTINF:-1 tvg-name="EVENT 06/JULI/2026" tvg-logo="https://i.imgur.com/9oqHNzY.jpeg" tvg-id=" fifaworldcup.com" group-title="EVENT 06/JULI/2026",FIFA World Cup (Tipik 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
