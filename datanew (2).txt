@@ -11,6 +11,8 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #User-Agent=Mozilla/5.0&Origin=https://www.vidio.com&Referer=https://www.vidio.com/
 https://tvku.family/update.mp4
+
+
 #EXTINF:-1 group-title="UPCOMING" tvg-logo="https://tvku.family/T/cover.php?url=aHR0cHM6Ly90aHVtYm9yLnByb2QudmlkaW9jZG4uY29tL3U3djhHbVViS3dpRkRaY3BHd3JwdWZXeVdqZz0vNjQweDM2MC9maWx0ZXJzOnN0cmlwX2ljYygpOnF1YWxpdHkoNzApL3ZpZGlvLW1lZGlhLXByb2R1Y3Rpb24vdXBsb2Fkcy9saXZlc3RyZWFtaW5nL3NjaGVkdWxlL3RodW1ibmFpbC81MTg0NTAxLzc0ZWNjNy5qcGc=&status=UPCOMING&time=19%3A30&t=1783229591", Malaysia vs Indonesia - Timnas U-17 Matchday 🛡 (19:30 - 7 Jul 2026) (OUT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:mimetype=application/dash+xml
