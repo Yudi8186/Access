@@ -1046,8 +1046,10 @@ http://opplextv.cyou:8080/nasir6160/nasir/349014
 http://myxpanel.pro/live/13579/13579/838108.ts
 
 #EXTINF:-1 group-title="EVENT 06/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 07:00 WIB Meksiko vs Inggris 
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
 #EXTINF:-1 group-title="EVENT 06/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 07:00 WIB Meksiko vs Inggris 
 #EXTVLCOPT:http-user-agent=Plus-Official-Box 
