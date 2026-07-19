@@ -1391,6 +1391,24 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoH
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9z2PLWICAnC_6Z1lBsmtl_nyJ3l6D_m2n7A&s",DA VINCI ASIA INDI
 
 
+event 20 Juli 2026
+
+
+#EXTINF:-1 group-title="EVENT 020/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 1 02:00 WIB Spanyol vs Argentina
+https://live01-cn-ali.bvjicd.com/live/43639055.m3u8
+
+#EXTINF:-1 group-title="EVENT 020/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 2 02:00 WIB Spanyol vs Argentina
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+http://193.47.62.47/hls/Ahhhh.m3u8
+
+#EXTINF:-1 group-title="EVENT 020/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 3 02:00 WIB Spanyol vs Argentina
+https://live2.jxa76.com/live/sd-6MvYMRTGwJ8SJyq4oD.m3u8?txSecret=f36de7ee17751d889feda5d9641d7f3a&txTime=19F7D0001F5
+
+#EXTINF:-1 group-title="EVENT 020/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 4 02:00 WIB Spanyol vs Argentina
+https://live2.jxa76.com/live/hd-en-6MvYMRTGwJ8SJyq4oD.m3u8?txSecret=71996a3c40705c1bab25c2f91f154481&txTime=19F7D0001F5
+
 
 
 
