@@ -277,17 +277,6 @@ https://allcutv.rctiplus.id/mnctv2023.m3u8
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",MNC TV (2) R+
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-
-
-
-
-
-
 
 
 
@@ -359,12 +348,17 @@ https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.pinimg.com/736x/d2/41/b1/d241b10991a9fbae14a7bc92e24cf61c.jpg" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",Kompas TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+https://op-flashcon-digdayahd-1.dens.tv/h/h234/index.m3u8
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tv1OIsG.jpeg" tvg-id="itzplay.id" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",Kompas TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h234/index.m3u8
 
 
 #EXTINF:-1 tvg-name="iNews(RCTI+)" tvg-logo="https://i.imgur.com/Tca6zd5.jpeg" tvg-id="iNews.id" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",iNews (RCTI+)
