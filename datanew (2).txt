@@ -396,7 +396,7 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
-
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
