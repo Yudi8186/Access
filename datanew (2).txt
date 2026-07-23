@@ -301,13 +301,15 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3KcXcgR.jpeg" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",ANTV 🔵 KELUHAN INFO 085815053825
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",ANTV 🔵 KELUHAN INFO 085815053825
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 
 
@@ -381,14 +383,6 @@ https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-327770703000000
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://i.imgur.com/4qyrsun.jpeg" tvg-id=" antv.id" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩"",ANTV KELUHAN INFO 085815053825
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
-http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
 
 
 
