@@ -173,7 +173,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++(++++++++
 
-#EXTINF:-1 tvg-name="Indosiar Digital (Server 6)" tvg-logo="https://i.imgur.com/4KiVDER.jpeg" tvg-id=" Digital.id" group-title="TIMNAS U-17", Indosiar Sport 
+#EXTINF:-1 tvg-name="Indosiar Digital (Server 6)" tvg-logo="https://i.imgur.com/4KiVDER.jpeg" tvg-id=" Digital.id" group-title="INDOSIAR CAD", Indosiar Sport 
 #http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
 https://s.id/Shareext_liga1_m3u8
 #http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
@@ -321,14 +321,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 
 =========================================== UFC/MMA ==============================================================================
 
-
-#EXTINF:-1 group-logo="https://img.magnific.com/vektor-premium/logo-maskot-tinju-keren_443390-30.jpg" group-title"="TINJU CS 085815053825
-
-
-
 #EXTINF:-1 tvg-id="DAZN.uk" group-title="TINJU CS 085815053825" tvg-logo="https://i.postimg.cc/fRB3Sn2r/IMG-2847.png", DAZN Combat
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-
 
 
 #EXTINF:-1 group-title="TINJU CS 085815053825" tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1.jpg",HBO Boxing
@@ -363,9 +357,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&
 
 
 BEINSPORT ----------------------------------------
-
-#EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/288/617/png-transparent-bein-channels-network-bein-sports-3-sky-sports-others-purple-television-violet.png" group-title"="BEINSPORT-CADANGAN
-
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="BEINSPORT-CADANGAN" tvg-id="beINSports" tvg-name="beINSports1", beIN Sports HD USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
