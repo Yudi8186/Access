@@ -1,16 +1,5 @@
 
-
-
-
 ---------------------------------------------------------------------------------------------------------------
-
-
-
-
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTy5OsXOJTplshBefKgBySk9sboQ0K0kAn7gImNr7hgneqhM14hg1DJAQ&s=10" group-title"="Sportstars
-
-
-
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="Sportstars",Soccer Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -50,9 +39,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
  
-
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
@@ -155,24 +141,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 
-
-
-
-
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/500px-RCTI_logo_2015.svg.png" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩", 3 RCTI KELUHAN INFO 085815053825
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-
-
-
-
-
 
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -183,19 +157,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mediampd/SCTVHD.mpd
 #http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwi-lEVyhFxpidFxwk0WD_FFPUatlnzFt8ihdndWL0WDzatpp8nefGTdI&s=10" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",1 Indosiar ðŸ‡®ðŸ‡©
 http://202.169.224.202:8800/udp/239.9.1.25:1234
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://static.cdnlogo.com/logos/i/79/indosiar-thumbnail.png" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",INDOSIAR B ðŸ‡®ðŸ‡©
@@ -209,11 +172,6 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++(++++++++
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/2025_Indonesia_National_Football_Team_Badge.png" group-title"="TIMNAS U-17
-
-
-
 
 #EXTINF:-1 tvg-name="Indosiar Digital (Server 6)" tvg-logo="https://i.imgur.com/4KiVDER.jpeg" tvg-id=" Digital.id" group-title="TIMNAS U-17", Indosiar Sport 
 #http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
@@ -229,27 +187,6 @@ https://s.id/Shareext_liga1_m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298550
 http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",1 𝗜𝗡𝗗𝗢𝗦𝗜𝗔𝗥 🇮🇩 🇮🇩 🇮🇩 KELUHAN INFO 085815053825
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -276,9 +213,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index
 https://allcutv.rctiplus.id/mnctv2023.m3u8
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -384,8 +318,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mP5cPyn.jpeg" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",RTV (Vidio)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -420,10 +352,6 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://dl.dropboxusercontent.com/s/1h9ie8d4mazxcvy/redbulltv.png" group-title="MotoGP CS 085815053825",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
@@ -446,8 +374,6 @@ https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
-
-
 
 
 BEINSPORT ----------------------------------------
@@ -726,181 +652,12 @@ https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index
 https://allcutv.rctiplus.id/gtv2023.m3u8
 http://103.179.182.117:6768/hls/57/57.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
-
-##### 📹CCTV PROJECT #####
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825",DESA KONOHA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
-https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8
-  
-#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825",DESA KONOHA 1  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Deppendo.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825",INFO PEMASANGAN 085815053825
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTCdua.m3u8
-  
-#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825"INFO PEMASANGAN 085815053825
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
-https://pelindung.bandung.go.id:3443/video/DAHUA/PASTEUR.m3u8
-  
-#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825",INFO PEMASANGAN 085815053825   
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/sukajadisukagalihh.m3u8
-  
-#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825",INFO PEMASANGAN 085815053825
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/sukajadisukagalih.m3u8
-  
-#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825",INFO PEMASANGAN 085815053825   
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/SukajadiPVJ.m3u8   
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825",INFO PEMASANGAN 085815053825
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/Setiabbudibungur.m3u8 
-  
-#EXTINF:0 tvg-logo="https://i.imgur.com/ONwkvL5.jpg" group-title="📹CCTV PROJECT 085815053825",INFO PEMASANGAN 085815053825
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/   
-https://pelindung.bandung.go.id:3443/video/HIKSVISION/riauasmtbb.m3u8
-
-
 -------------------------------------------------------------------------------------------------------------------
-
-
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20260621/ourmid/pngtree-fifa-world-cup-2026-with-golden-trophy-png-image_19611950.webp" group-title"="PIALA DUNIA
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="PIALA DUNIA",1 CAZE TV 1
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="PIALA DUNIA" ,Prima Sport 1 
-#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
-
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="PIALA DUNIA" ,Prima Sport 2 
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="PIALA DUNIA",Prima Sport 3 
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-
-#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947" group-title="PIALA DUNIA" ,Prima Sport 4 
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
-
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", FIFA World Cup 2026 01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
-https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", FIFA World Cup 2026 02
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", FIFA World Cup 2026 03
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", FIFA World Cup 2026 04
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7cf9b28d1a8d874accebc44d7e1fcd:cda18d4d20abd5cc778315abe277feb9
-https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", FIFA World Cup 2026 05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
-https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", FIFA World Cup 2026 06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
-https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", FIFA World Cup 2026 07
-http://myxpanel.pro/live/13579/13579/838102.ts
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", FIFA World Cup 2026 08
-http://myxpanel.pro/live/13579/13579/838103.ts
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", FIFA World Cup 2026 09
-http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", FIFA World Cup 2026 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://107.150.60.122/live/cctv5p.m3u8
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", FIFA World Cup 2026 11
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", FIFA World Cup 2026 12
-http://myxpanel.pro/live/13579/13579/838116.ts
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", FIFA World Cup 2026 13
-http://myxpanel.pro/live/13579/13579/838115.ts
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", FIFA World Cup 2026 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6cfb55b12aaa9df1626a8adaa4f26329:84486e2e8e5fdee2ef8240019923078c
-https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
-
-EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kuk1.modprimus1.cfd/000/
-https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
-https://kudos111.terranovax1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pulse1.zalmora1.cfd/000/
-https://pulse1.zalmora1.cfd/kuk3/usergendxt1v8klq6rnd.m3u8
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pulse1.zalmora1.cfd/000/
-https://pulse1.zalmora1.cfd/kuk4/usergendlg1ks0t2n.m3u8
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pulse1.zalmora1.cfd/000/
-
-
 
 
 
 ------------------------------------------------------
 
-#EXTINF:-1 group-logo="https://yt3.googleusercontent.com/qe-pYudmyONthV8RxRog0C8V9QHP5GgmXgTIjC4Pj5STrikpUEi2ChXAsklJx-QRwJXJ9yRy=s900-c-k-c0x00ffffff-no-rj" group-title"="Sports
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjW04JBhtv5zAMHJPs9J50hcOQM1Mr6H5YNg&s" group-title="Sports", SportTV 1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU4sgZZUSkmDqgJs1fIynGbzFfuY8ysERWtw&s" group-title="Sports", SportTV 2
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2njIc8G4n315bL98yqaOl8vB7j0Qdx5Ejrw&s" group-title="Sports", SportTV 3
 
 
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="Sports" ,Prima Sport 1 
@@ -1061,8 +818,6 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 
 -----------------------------------------------------
 
-
-#EXTINF:-1 group-logo="https://1000logos.net/wp-content/uploads/2023/05/World-Cup-2026-Logo.png" group-title"="EVENT 07/JULI/2026
 
 
 #EXTINF:-1 group-title="EVENT 07/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 02:00 WIB Portugal vs Spanyol cadangan 
@@ -1380,25 +1135,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoH
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZO60yGul_PBd8JqWhcE8vXczJqkbuVEhaMQSjn-I3WLbwsRv0j27bDU0fbIImFX6ZXA&usqp=CAU" group-title="KIDS",DISNEY Channel
 #EXTINF:-1 group-title="KIDS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",SPACETOON ARAB
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9z2PLWICAnC_6Z1lBsmtl_nyJ3l6D_m2n7A&s",DA VINCI ASIA INDI
-
-
-event 20 Juli 2026
-
-
-#EXTINF:-1 group-title="EVENT 020/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 1 02:00 WIB Spanyol vs Argentina
-https://live01-cn-ali.bvjicd.com/live/43639055.m3u8
-
-#EXTINF:-1 group-title="EVENT 020/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 2 02:00 WIB Spanyol vs Argentina
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://193.47.62.47/hls/Ahhhh.m3u8
-
-#EXTINF:-1 group-title="EVENT 020/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 3 02:00 WIB Spanyol vs Argentina
-https://live2.jxa76.com/live/sd-6MvYMRTGwJ8SJyq4oD.m3u8?txSecret=f36de7ee17751d889feda5d9641d7f3a&txTime=19F7D0001F5
-
-#EXTINF:-1 group-title="EVENT 020/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 4 02:00 WIB Spanyol vs Argentina
-https://live2.jxa76.com/live/hd-en-6MvYMRTGwJ8SJyq4oD.m3u8?txSecret=71996a3c40705c1bab25c2f91f154481&txTime=19F7D0001F5
 
 
 
