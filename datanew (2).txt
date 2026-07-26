@@ -1,3 +1,44 @@
+
+
+======================================== event ====================================
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HC69bTvTgy6Q-FhyyryjElSvdd26NLPq0vNemA1OYQ&s" group-title="ASEAN CUP 2026",Mediacorp Live 5
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HC69bTvTgy6Q-FhyyryjElSvdd26NLPq0vNemA1OYQ&s" group-title="ASEAN CUP 2026",Mediacorp Live 6
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HC69bTvTgy6Q-FhyyryjElSvdd26NLPq0vNemA1OYQ&s" group-title="ASEAN CUP 2026",RCTI R+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HC69bTvTgy6Q-FhyyryjElSvdd26NLPq0vNemA1OYQ&s" group-title="ASEAN CUP 2026", MNCTV R+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HC69bTvTgy6Q-FhyyryjElSvdd26NLPq0vNemA1OYQ&s" group-title="ASEAN CUP 2026", GTV R+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HC69bTvTgy6Q-FhyyryjElSvdd26NLPq0vNemA1OYQ&s" group-title="ASEAN CUP 2026",True Sports 2
+http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2
+
 =========================================== UFC/MMA ==============================================================================
 
 #EXTINF:-1 tvg-id="DAZN.uk" group-title="TINJU CS 085815053825" tvg-logo="https://i.postimg.cc/fRB3Sn2r/IMG-2847.png", DAZN Combat
