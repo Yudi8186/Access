@@ -983,6 +983,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
+#EXTINF:-1 tvg-name="Indosiar Digital (Server 6)" tvg-logo="https://i.imgur.com/4KiVDER.jpeg" tvg-id=" Digital.id" group-title="𝗜𝗡𝗗𝗢𝗦𝗜𝗔𝗥 CADANGAN", Indosiar Sport 
+#http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
+https://s.id/Shareext_liga1_m3u8
+#http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
+#https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/indosiar.m3u8
+
 
 #EXTM3U billed-msg="CHANNEL MATI LAPOR ADMIN 085815053825 / IURAN TIAP TANGGAL 1 / RECEIVER RUSAK KITA GANTI BARU S&K BERLAKU MATOR SEKALANGKONG TV RUSAK HARAP INFO"
 
