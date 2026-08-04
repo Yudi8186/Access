@@ -968,7 +968,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 ---------------------- TEST SCRIPT 
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="1🇮🇩 01VSAT-TELKOM-3S 🇮🇩",4GTV KELUHAN INFO 085815053825
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="1🇮🇩 01VSAT-TELKOM-3S",4GTV KELUHAN INFO 085815053825
 mnctv-sdi-avc1_1000000=17-mp4a_96000=1.m3u8
 
 
