@@ -650,7 +650,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels",SCTV (Video)
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppz31ODx19yjZ90SJEB7JHlntzmUUKFjhRSj5_XotamnZ5fFY-CirGLA&s=10" group-title="Indonesia Channels",SCTV
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 
 #EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://thumbor.prod.vidiocdn.com/ie0dsrnpCuMgM2ChvdnDkrAei90=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png",ANTV
