@@ -784,6 +784,12 @@ https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-32777
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels",MDTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/mdtv.png" group-title="Indonesia Channels", MDTV NET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
