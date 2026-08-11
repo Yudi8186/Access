@@ -809,10 +809,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 =============================================== Indonesia Channels ===============================================
 
 
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="auto.kompas.tv" group-title="Indonesia Channels" tvg-logo="https://object-streamo.emonaja.com/img/kompastv.png",Kompas TV
-https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmsQ97JbHR1D8S1Y-hjbKJBQFMqNzFHcyzgA&s" group-title="Indonesia Channels",KOMPAS TV (VPN)
+https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/10.ts
 
 
 <============================================================KNOWLEDGE==================================================
