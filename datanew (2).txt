@@ -247,6 +247,46 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #EXTVLCOPT:http-referrer=https://pulse1.zalmora1.cfd/000/
 https://pulse1.zalmora1.cfd/kuk4/usergendlg1ks0t2n.m3u8
 
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czvDT19.jpeg" tvg-id="itzplay.id" group-title="MOTO GP CS 085815053825", MotoGP | Prima Sport 4
+https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czvDT19.jpeg" tvg-id="itzplay.id" group-title="MOTO GP CS 085815053825", MotoGP | Nonton GP.Org
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
+https://master3.hdtvs1.top/hls/0/stream.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czvDT19.jpeg" tvg-id="itzplay.id" group-title="MOTO GP CS 085815053825", MotoGP Live
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czvDT19.jpeg" tvg-id="itzplay.id" group-title="MOTO GP CS 085815053825", MotoGP | TNT Sports 2 United Kingdom
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905815&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czvDT19.jpeg" tvg-id="itzplay.id" group-title="MOTO GP CS 085815053825",MotoGP | Sky Sport MotoGP Italia
+http://weqcffv8.vexiumis.top/iptv/B3VXS594EX7ZAW/19133/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czvDT19.jpeg" tvg-id="itzplay.id" group-title="MOTO GP CS 085815053825", MotoGP | Ziggo Sport 1 Netherlands
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069726.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czvDT19.jpeg" tvg-id="itzplay.id" group-title="Race", MotoGP | Trans 7 Digital
+https://ogietv.biz.id:443/Buat/App/1313.ts
+http://157.15.187.3:25092/hls/42/42.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=120&type=fitnah
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czvDT19.jpeg" tvg-id="itzplay.id" group-title="MOTO GP CS 085815053825",MotoGP | SPOTV 2 Indonesia
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
 ------------------------------------------------------SPORT------------------------------------------------------------------
 
 
