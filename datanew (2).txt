@@ -595,6 +595,7 @@ ________________________________________________________________________________
 
 =============================================== Indonesia Channels =========================================
 
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv1OIsG.jpeg" tvg-id="itzplay.id" group-title="Indonesia Channels",Kompas TV
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
@@ -801,7 +802,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
 
 #EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/200px-KOMPAS_TV_%282017%29.svg.png" group-title="Indonesia Channels",KOMPAS TV
-https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 
 <============================================================KNOWLEDGE==================================================
