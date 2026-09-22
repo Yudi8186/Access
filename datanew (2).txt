@@ -675,6 +675,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_s
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=6
 https://beetv.my.id/xstreamx/vd.m3u8?ch=trans tv
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=transtv
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="Indonesia Channels", Trans 7
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -682,7 +684,7 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=trans tv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=7
 https://beetv.my.id/xstreamx/vd.m3u8?ch=trans 7
-
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=trans7
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-8ZOCCFoPNA9ms_SLoPbTfiivrl_7xyCxg&s" group-title="Indonesia Channels",ANTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
