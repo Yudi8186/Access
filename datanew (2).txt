@@ -644,19 +644,25 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png" group-title="Indonesia Channels",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="Indonesia Channels",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OBgBuvZCK6k9dV3Ncjdz5hl0lqMrnSNVGvHdzvRFcHnQ1DIf1vSQCSY&s=10" group-title="Indonesia Channels",GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWdquDjBINKIYNU4OyBKnq-AgWtcEYbf_SzVckmf_ALg&s=10",iNews
