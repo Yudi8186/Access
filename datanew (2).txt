@@ -1,4 +1,9 @@
 
+#EXTINF:-1 group-title="TIMNAS U-17" tvg-logo="https://shorter.me/Ea8Hm", 15:30 WIB Indonesia U-17 vs Myanmar U-17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
+
 
 
 ================================================ HBO =====================================================
